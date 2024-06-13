@@ -61,6 +61,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Feel free to reach out if you have any questions or feedback. Enjoy using the Weather Web Application!
 
----
-
-**Note:** Replace `path/to/your/image.png` with the actual path to your project's screenshot image file.
