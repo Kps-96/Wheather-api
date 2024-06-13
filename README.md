@@ -35,7 +35,7 @@ Welcome to the Weather Web Application repository! This project showcases a weat
 
 ## Screenshot
 
-![Weather Web Application Screenshot](path/to/your/image.png)
+![Weather Web Application Screenshot](readme.png)
 
 ## API Integration
 
